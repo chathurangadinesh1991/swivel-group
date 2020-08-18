@@ -1,7 +1,6 @@
 # swivel-group
 
 #sample login application (react js) 
-
 #packages
 npm i react-router-dom --save
 npm install --save bootstrap
